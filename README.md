@@ -58,8 +58,6 @@ This repository contains a **Sales Dashboard** created in **Power BI Desktop**. 
 ## **Author**
 
 **Akarsh Tyagi**
-
-* Portfolio: [GitHub Profile](https://github.com/yourusername)
 * Email: akarshtyagi2004@gmail.com
 
  
